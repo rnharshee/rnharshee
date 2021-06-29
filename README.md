@@ -22,7 +22,7 @@ I am a fullstack software engineer from Bangalore,India
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-raghu-596875119)
-[![stack-overflow](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://stackoverflow.com/users/9353104/harshita-raghu)
+[![stack-overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/9353104/harshita-raghu)
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Harshee49128133)
 
 ### Expertise
