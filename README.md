@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh
+I am a fullstack software engineer from Bangalore,India
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
@@ -27,7 +27,7 @@ I am a fullstack software engineer from bangladesh
 <br>
 <br>
 ## Expertise
-<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
